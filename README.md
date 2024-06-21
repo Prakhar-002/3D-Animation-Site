@@ -30,7 +30,7 @@
 </br>
 
 # Features 💎
-- `Canvas-based Rendering` ➤ Utilizes `HTML5/JAVASCRIPT` Canvas for real-time 3D rendering.
+- `Canvas-based Rendering` ➤ **Utilizes** `HTML5/JAVASCRIPT` **Canvas for real-time 3D rendering**.
 
 - `Locomotive CSS` ➤ **Smooth scroll animations** for a `visually appealing experience`.
 
