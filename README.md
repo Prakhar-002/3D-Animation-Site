@@ -3,7 +3,11 @@
 
 **Welcome to our 3D Animation Web App!** powered by `Canvas, Locomotive css, Locomotive JS, G-SAP, and Scroll-Trigger`. This application enables you to create **dynamic and immersive 3D animations directly in your web browser**.
 
+</br>
+
 > Apologies for the slow site loading due to canvas frame rendering.
+
+</br>
 
 <br/>
 
