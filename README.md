@@ -7,9 +7,7 @@
 
 > Apologies for the slow site loading due to canvas frame rendering.
 
-</br>
 
-<br/>
 
 <h1 align="center"> 
 
