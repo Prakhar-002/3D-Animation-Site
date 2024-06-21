@@ -42,7 +42,7 @@
 
 </br>
 
-# Deployment 🚀
+# Deployment 🛫
 
 **To 🏃🏻‍♂️ locally this CYBER FICTION - A 3D-Animation-site** *run this command on your git bash*
 
