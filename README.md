@@ -18,7 +18,7 @@
 
 # Screenshots ⛩️
 
-![cyber fiction 3d](https://github.com/Prakhar-002/3D-Animation-Site/assets/136890202/422bc966-06cb-43ce-9e5c-146da6536309)
+![cyber fiction 3d](https://github.com/user-attachments/assets/052bc668-716b-44fe-8798-5f0e8e8f028c)
 
 </br>
 
